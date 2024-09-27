@@ -1,5 +1,3 @@
-Here is the translated version of your text:
-
 # RESTful API with Node.js, TypeScript, and SOLID Principles
 
 This project is a basic implementation of a RESTful API using Node.js and TypeScript, following the SOLID principles, as taught in the **[SOLID Principles in a REST API with Node.js and TypeScript | Code/Drops #44](https://www.youtube.com/watch?v=vAV4Vy4jfkc)** video by Rocketseat.
